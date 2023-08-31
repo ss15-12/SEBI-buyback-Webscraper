@@ -6,6 +6,7 @@ PROCESS:
 2) Scrape the data using either Selenium or Beautiful soap module in python.
 3) Consodilate all the data into a single dataframe .
 4) This dataframe contains various attributes such as:
+   
          1) Record Date
          2)Offer Opens On
          3)Last Date for receipt of Tender Forms
